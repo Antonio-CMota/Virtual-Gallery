@@ -1,0 +1,125 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'pt' Physical Memory: 16287 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/ipmaia/Motores e Plataformas de Desenvolvimento I/trabalho_artes
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60886
+Successfully changed project path to: D:/ipmaia/Motores e Plataformas de Desenvolvimento I/trabalho_artes
+D:/ipmaia/Motores e Plataformas de Desenvolvimento I/trabalho_artes
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/ipmaia/Motores e Plataformas de Desenvolvimento I/trabalho_artes/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 5600 XT (ID=0x731f)
+    Vendor:   
+    VRAM:     6103 MB
+    Driver:   27.20.21002.112
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56788
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001809 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.02 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.968 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002965 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.959 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1974 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.6 MB.
+System memory in use after: 117.1 MB.
+
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 2417.
+Total: 5.600800 ms (FindLiveObjects: 0.219300 ms CreateObjectMapping: 0.047600 ms MarkObjects: 2.115400 ms  DeleteObjects: 3.217300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.010647 seconds
+  Import took 0.013734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.836345 seconds.
+  path: Assets/Fornais
+  artifactKey: Guid(18e1f3736eaddf1459c0d9ccd6c3485b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fornais using Guid(18e1f3736eaddf1459c0d9ccd6c3485b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '152c656f7e8fd32404df7a4c6deb6fbb') in 0.005962 seconds
+  Import took 0.020220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.054876 seconds.
+  path: Assets/Jornais
+  artifactKey: Guid(18e1f3736eaddf1459c0d9ccd6c3485b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jornais using Guid(18e1f3736eaddf1459c0d9ccd6c3485b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be93b257d9ff41da522e09ff7ed2ddc6') in 0.005732 seconds
+  Import took 0.026573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.739336 seconds.
+  path: Assets/Jornais/Excelsior-joconde.jpg
+  artifactKey: Guid(0cb24783f3b530c47b13ccdc165e4e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jornais/Excelsior-joconde.jpg using Guid(0cb24783f3b530c47b13ccdc165e4e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86cc241d65af15f4fe884ca5e8def6ab') in 0.096912 seconds
+  Import took 0.100140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Jornais/le-jocond.jpg
+  artifactKey: Guid(05bdd4ed9e5ad7840b3955e96a75e694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jornais/le-jocond.jpg using Guid(05bdd4ed9e5ad7840b3955e96a75e694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc284af1ce7ed9a176a86e35202f215c') in 0.013559 seconds
+  Import took 0.018411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1296.735862 seconds.
+  path: Assets/Jornais/421790_360W.png
+  artifactKey: Guid(a1cd1b22f911f5e4db8b95a4dd6c3eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jornais/421790_360W.png using Guid(a1cd1b22f911f5e4db8b95a4dd6c3eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b092b3df32c25cca69eb68e789167e6') in 0.044854 seconds
+  Import took 0.048374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 497.304727 seconds.
+  path: Assets/Jornais/MundoLiterarioN22_5Out1946_0001_branca_t0.jpg
+  artifactKey: Guid(6465e52394a73ab409caf775bbe9905f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jornais/MundoLiterarioN22_5Out1946_0001_branca_t0.jpg using Guid(6465e52394a73ab409caf775bbe9905f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '965332a263135260053a9ab2a3f87a79') in 0.025932 seconds
+  Import took 0.029832 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
